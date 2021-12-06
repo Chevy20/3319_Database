@@ -1,0 +1,39 @@
+.MainTitle{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: larger;
+
+}
+body{
+    background-color: #9370DB;
+
+}
+.Top{
+    background-color: white;
+    margin : 25px 50px 75px 100px;
+    
+}
+.Top h2{
+    text-align:center ;
+}
+.Data {
+
+    background-color: white;
+    width: fit-content;
+    margin : auto;
+
+}
+.Data h2 {
+    text-align:left ;
+}
+.Return #returnHome{
+    margin:0 auto;
+    display:block;
+    background-color: purple;
+    text-align: center;
+    font-size: 16px;
+    border: 5px solid black;
+    cursor: pointer;
+    color:white;
+}
